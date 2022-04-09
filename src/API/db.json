@@ -1,0 +1,29 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "The Fool on the Hill",
+      "album": "Magical Mistery Tour"
+    },
+    {
+      "id": 2,
+      "name": "Come Together",
+      "album": "Abbey Road"
+    },
+    {
+      "id": 3,
+      "name": "Help!",
+      "album": "Help!"
+    },
+    {
+      "id": 4,
+      "name": "A Day in The Life",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "id": 5,
+      "name": "For You Blue",
+      "album": "Let it Be"
+    }
+  ]
+}
