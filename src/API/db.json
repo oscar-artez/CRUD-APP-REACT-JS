@@ -1,0 +1,44 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "Volcán",
+      "album": "Volcán"
+    },
+    {
+      "id": 2,
+      "name": "Signos",
+      "album": "Signos"
+    },
+    {
+      "id": 3,
+      "name": "Puente",
+      "album": "Bocanada"
+    },
+    {
+      "id": 4,
+      "name": "A Day in The Life",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "id": 5,
+      "name": "Nos siguen pegando abajo",
+      "album": "Clics Modernos"
+    },
+    {
+      "name": "Enemigos Intimos",
+      "album": "Enemigos Intimos",
+      "id": 6
+    },
+    {
+      "name": "Llegaste a mi",
+      "album": "Buscando una sonrisa",
+      "id": 7
+    },
+    {
+      "name": "Mariposa tecknicolor",
+      "album": "Euforia",
+      "id": 9
+    }
+  ]
+}
